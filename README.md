@@ -1,15 +1,21 @@
-## Juan Jose Barillas Ruiz
+## Objective
 
 You can use the [editor on GitHub](https://github.com/jbarill/JuanJBarillas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Leadership Activities
+
+
+
 ```markdown
 Syntax highlighted code block
+
+### Achivements
 
 # Header 1
 ## Header 2
